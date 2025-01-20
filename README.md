@@ -3,9 +3,9 @@ Flask project that counts browser requests and displays the count. This project 
 I'll create a Flask project that counts browser requests and displays the count. This project will demonstrate a simple way to track and display the number of times a page has been accessed, which can be useful in various DevOps scenarios for monitoring traffic or usage.
 ![image](https://github.com/user-attachments/assets/a15644df-5974-4dab-a9fb-96589f799a70)
 
-
-```typescriptreact project="Request Counter"
-```
+#
+typescriptreact project="Request Counter"
+#
 
 Now, let's go through the changes and how to use this updated version:
 
@@ -17,9 +17,9 @@ Now, let's go through the changes and how to use this updated version:
 
 
 To build and run this Docker container:
-'''
+```
 docker build -t request-counter .
-'''
+```
 
 I'll create a Flask project that counts browser requests and displays the count. This project will demonstrate a simple way to track and display the number of times a page has been accessed, which can be useful in various DevOps scenarios for monitoring traffic or usage.
 
